@@ -25,6 +25,9 @@ This project is a comprehensive Library Management System built using JSP for th
 ## Library Page
 ![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/LibLogin9.jpg)
 
+## Library Portal
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/x.jpg)
+
 ## Library Login
 ![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/Liblogin10.jpg)
 
@@ -33,6 +36,19 @@ This project is a comprehensive Library Management System built using JSP for th
 
 ## Remove Book
 ![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/RemoveBook12.jpg)
+
+## List Of Book
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/ListOfBook13.jpg)
+
+## Student Section
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/StudentHome14.jpg)
+
+## Student Login
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/StudentLogin15.jpg)
+
+## Student Portal 
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/StudentPortel16.jpg)
+
 
 
 
