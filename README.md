@@ -6,3 +6,33 @@ This project is a comprehensive Library Management System built using JSP for th
 
 ## Admin Login
 ![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/AdminLoginPage2.jpg)
+
+## Admin Portal
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/AdminPortel3.jpg)
+
+## Library Details
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/LibAuthitacation5.jpg)
+
+## list of librarians 
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/ListOfLib6.jpg)
+
+## Account Delete
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/AccountDelete7.jpg)
+
+## Update Password
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/PasswordUpdate8.jpg)
+
+## Library Page
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/LibLogin9.jpg)
+
+## Library Login
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/Liblogin10.jpg)
+
+## Add Book
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/Addbook11.jpg)
+
+## Remove Book
+![image](https://github.com/tavanojirutik/ibrary-management-system-JSP-Servlet/blob/main/RemoveBook12.jpg)
+
+
+
